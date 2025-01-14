@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "yaml.schemas": {
+        "file:///c%3A/Users/mahmu/.vscode/extensions/atlassian.atlascode-3.2.1/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+        "https://json.schemastore.org/pubspec.json": "file:///c%3A/src/TheNomNomCollective/the_nomnom_collective/pubspec.yaml"
+    },
+    "cmake.sourceDirectory": "C:/src/TheNomNomCollective/the_nomnom_collective/windows/flutter"
+}
